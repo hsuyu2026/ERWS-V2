@@ -334,8 +334,8 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
       {/* Top Banner / Call-to-Action */}
       <div className="p-6 sm:p-8 bg-stone-900 text-white rounded-3xl shadow-sm relative overflow-hidden flex flex-col md:flex-row md:items-center justify-between gap-6">
         <div className="max-w-2xl">
-          <div className="flex items-center gap-2 text-xs font-semibold text-stone-400 uppercase tracking-wider mb-2">
-            <span>ERWS · Emotion & Cognitive Well-being System</span>
+          <div className="flex items-center gap-2 text-xs font-semibold text-stone-400 tracking-wider mb-2">
+            <span>ERWS · Emotion Recording and Warning System</span>
           </div>
           <h1 className="text-2xl sm:text-3xl font-bold tracking-tight">
             個人情緒、認知、行為與身心狀態儀表板
