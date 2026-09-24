@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.font-mincho {
+  font-family: 'BIZ UDMincho', 'BIZ UDPMincho', 'Songti TC', 'Source Han Serif TC', serif;
+}
